@@ -26,9 +26,9 @@ Career Quest (CaQu) empowers Indonesian high school students with personalized c
 | M014B4KY1844   | I Komang Maheza Yudistia             | Udayana University                        | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/i-komang-maheza-yudistia/)
 | M251B4KX1953   | Ilmi Suciani Sinambela               | Malikussaleh University                   | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/ilmi-suciani-sinambela-188541286/)
 | C251B4KX0954   | Cut Rifa Salsabil                    | Malikussaleh University                   | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/cut-rifa-salsabil-2ba789327/)
-| C251B4KX0751   | Ayu Suningsih                        | Malikussaleh University                   | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/ayu-sunings)
+| C251B4KX0751   | Ayu Suningsih                        | Malikussaleh University                   | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/ayu-suningsih)
 | A113B4KY2368   | Made Budi Darma Putra                | Institut Teknologi dan Bisnis Stikom Bali | Mobile Development | [LinkedIn](https://www.linkedin.com/in/budidarmaputra07)
-| A113B4KY1072   | Dewa Bagus Komang Wahyu Arta Putra   | Institut Teknologi dan Bisnis Stikom Bali | Mobile Development | [LinkedIn](www.linkedin.com/in/jaxonol)
+| A113B4KY1072   | Dewa Bagus Komang Wahyu Arta Putra   | Institut Teknologi dan Bisnis Stikom Bali | Mobile Development | [LinkedIn](https://www.linkedin.com/in/jaxonol)
 
 ## Repositories
 - [Machine Learning](https://github.com/CaQu-C242-PS046/caqu-model)
