@@ -1,4 +1,4 @@
-<img width="695" alt="logo" src="https://drive.google.com/file/d/1aItUS4515XIdRav4xfwzo5FWV--w9L4q/view?usp=sharing">
+![Deskripsi Gambar](https://drive.google.com/uc?export=view&id=1aItUS4515XIdRav4xfwzo5FWV--w9L4q)
 
 ## Team ID
 
