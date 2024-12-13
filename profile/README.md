@@ -13,7 +13,7 @@ Career Quest (CaQu) is an app designed to help Indonesian high school students e
 <p align="center">
    Download Now!
    <br>
-   <a href="[[https://drive.google.com/file/d/1UrUM0aiYbNLnNDG4SCDP3E_BC9r_Qmx5/view?usp=sharing](https://drive.google.com/drive/folders/1wAxMgmXeLIPzSbBguTZWrbeeJzUwshfP?usp=sharing)](https://drive.google.com/file/d/1raXnXeb3HU9gGajBTSJU5Ss2MChAYywu/view?usp=drive_link)"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://drive.google.com/file/d/1raXnXeb3HU9gGajBTSJU5Ss2MChAYywu/view?usp=drive_link"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </p>
 
 ## Key Feature
